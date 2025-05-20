@@ -1,0 +1,2 @@
+# calcdepartidas
+Calculador de partidas
